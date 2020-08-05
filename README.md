@@ -3,7 +3,9 @@ Used google teachable machine 2.0 to train bird dataset of 60 images approx for 
 
 # List of birds in the dataset
 
-001.Black_footed_Albatross    002.Laysan_Albatross    003.Sooty_Albatross
+001.Black_footed_Albatross   
+002.Laysan_Albatross    
+003.Sooty_Albatross
 004.Groove_billed_Ani
 005.Crested_Auklet
 006.Least_Auklet
